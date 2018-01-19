@@ -1,0 +1,40 @@
+.rental-navbar{
+	padding-top: 35px;
+	padding-bottom: 35px;
+	background: white;
+}
+
+.rental-navbar .navbar-nav>.active>a{
+	background: #3498db;
+	color: white;
+}
+.rental-navbar .rental-cart{
+	padding-left: 10px;
+	border-left: 1px solid #969696;
+}
+.rental-navbar .rental-form-btn{
+	margin-right: 7px;
+
+}
+.rental-navbar .rental-btn-car{
+	background: #3498db;
+	border-radius: 3px;
+}
+.rental-slider{
+	background: #E4E4E4;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	margin-top: -20px;
+}
+.rental-content{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.rental-content.src-item-img{
+	margin-bottom: 20px;
+}
+
+
+
+

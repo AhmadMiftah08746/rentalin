@@ -1,0 +1,30 @@
+
+
+#navbar-default .btn-signup{
+	
+	background:#3498db;
+	height: 40px;
+	border-radius: 50px;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 10 px;
+	padding-bottom: 5px;
+
+	
+}
+#navbar-default{
+	background:none;
+	border:0;
+	padding-top: 20px;
+}
+#navbar-default .navbar-brand{
+	color: #FFF;
+}
+#navbar-default .navbar-nav a{
+	color: #FFF;
+}
+#sally-slider{
+	background:#969696;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
